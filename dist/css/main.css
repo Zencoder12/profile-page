@@ -13,8 +13,8 @@
       -ms-flex-align: center;
           align-items: center;
   text-align: center;
-  background: -webkit-gradient(linear, left top, right top, from(rgba(39, 39, 39, 0.1)), to(rgba(39, 39, 39, 0.1))), url("/img/hiking.jpg") center top;
-  background: linear-gradient(to right, rgba(39, 39, 39, 0.1), rgba(39, 39, 39, 0.1)), url("/img/hiking.jpg") center top;
+  background: -webkit-gradient(linear, left top, right top, from(rgba(39, 39, 39, 0.1)), to(rgba(39, 39, 39, 0.1))), url("https://drive.google.com/uc?export=view&id=1rSOoXX4oycD9yVj-R85xBbmuxusF0A8D") center top;
+  background: linear-gradient(to right, rgba(39, 39, 39, 0.1), rgba(39, 39, 39, 0.1)), url("https://drive.google.com/uc?export=view&id=1rSOoXX4oycD9yVj-R85xBbmuxusF0A8D") center top;
   background-size: cover;
 }
 
@@ -192,7 +192,7 @@
 .about__bio-image {
   height: 50vh;
   width: 100%;
-  background: url("/img/hiking.jpg") center top;
+  background: url("https://drive.google.com/uc?export=view&id=1rSOoXX4oycD9yVj-R85xBbmuxusF0A8D") center top;
   background-size: cover;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -283,7 +283,7 @@ footer {
 .projects__bio-image {
   height: 30vh;
   width: 100%;
-  background: url("/img/hiking.jpg") center top;
+  background: url("https://drive.google.com/uc?export=view&id=1rSOoXX4oycD9yVj-R85xBbmuxusF0A8D") center top;
   background-size: cover;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -408,8 +408,8 @@ footer {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  background: -webkit-gradient(linear, left top, right top, from(rgba(39, 39, 39, 0.1)), to(rgba(39, 39, 39, 0.1))), url("/img/hiking.jpg") center top;
-  background: linear-gradient(to right, rgba(39, 39, 39, 0.1), rgba(39, 39, 39, 0.1)), url("/img/hiking.jpg") center top;
+  background: -webkit-gradient(linear, left top, right top, from(rgba(39, 39, 39, 0.1)), to(rgba(39, 39, 39, 0.1))), url("https://drive.google.com/uc?export=view&id=1rSOoXX4oycD9yVj-R85xBbmuxusF0A8D") center top;
+  background: linear-gradient(to right, rgba(39, 39, 39, 0.1), rgba(39, 39, 39, 0.1)), url("https://drive.google.com/uc?export=view&id=1rSOoXX4oycD9yVj-R85xBbmuxusF0A8D") center top;
   background-size: cover;
 }
 
